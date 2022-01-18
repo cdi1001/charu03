@@ -188,6 +188,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  filter: drop-shadow(16px 16px 10px black);
 }
 
 svg {
