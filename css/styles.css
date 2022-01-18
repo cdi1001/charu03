@@ -466,6 +466,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  filter: drop-shadow(16px 16px 10px black);
 }
 
 .img-thumbnail {
