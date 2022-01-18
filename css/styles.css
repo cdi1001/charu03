@@ -468,10 +468,7 @@ mark,
   max-width: 100%;
   height: auto;
   filter: drop-shadow(16px 16px 10px black);
-  box-shadow: 10px 10px 5px #ccc;
-      -moz-box-shadow: 10px 10px 5px #ccc;
-      -webkit-box-shadow: 10px 10px 5px #ccc;
-      -khtml-box-shadow: 10px 10px 5px #ccc;
+ 
 }
 
 .img-thumbnail {
@@ -482,10 +479,7 @@ mark,
   max-width: 100%;
   height: auto;
   filter: drop-shadow(16px 16px 10px black);
-    box-shadow: 10px 10px 5px #ccc;
-      -moz-box-shadow: 10px 10px 5px #ccc;
-      -webkit-box-shadow: 10px 10px 5px #ccc;
-      -khtml-box-shadow: 10px 10px 5px #ccc;
+
 }
 
 .figure {
@@ -495,10 +489,6 @@ mark,
 .figure-img {
   margin-bottom: 0.5rem;
   line-height: 1;
-    box-shadow: 10px 10px 5px #ccc;
-      -moz-box-shadow: 10px 10px 5px #ccc;
-      -webkit-box-shadow: 10px 10px 5px #ccc;
-      -khtml-box-shadow: 10px 10px 5px #ccc;
 }
 
 .figure-caption {
