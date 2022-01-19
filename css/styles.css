@@ -10248,6 +10248,7 @@ form .row:first-child .floating-label-form-group {
   padding: 5px;
   border: #fff  1px;
   border-radius: 5px;
+  font-weight: normal;
 }
 .lead-2{
   background-color: rgba(250, 235, 215, 0.671);
