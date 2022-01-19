@@ -125,7 +125,7 @@ blockquote {
 
 b,
 strong {
-  font-weight: bolder;
+  
 }
 
 small {
@@ -9755,11 +9755,11 @@ button.bg-dark:focus {
 }
 
 .font-weight-bold {
-  font-weight: 700 !important;
+ 
 }
 
 .font-weight-bolder {
-  font-weight: bolder !important;
+
 }
 
 .font-italic {
