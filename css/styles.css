@@ -188,7 +188,6 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  filter: drop-shadow(16px 16px 10px black);
 }
 
 svg {
@@ -250,7 +249,6 @@ select {
 
 [role=button] {
   cursor: pointer;
-  filter: drop-shadow(30px 10px 4px #4444dd);
 }
 
 select {
@@ -467,8 +465,6 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
-  filter: drop-shadow(16px 16px 10px black);
- 
 }
 
 .img-thumbnail {
@@ -478,8 +474,6 @@ mark,
   border-radius: 0.5rem;
   max-width: 100%;
   height: auto;
-  filter: drop-shadow(16px 16px 10px black);
-
 }
 
 .figure {
@@ -4406,7 +4400,6 @@ input[type=button].btn-block {
   left: 0;
   padding: 1.25rem;
   border-radius: 0.375rem;
-  
 }
 
 .card-img,
@@ -10301,6 +10294,7 @@ form .row:first-child .floating-label-form-group {
   padding: 5px 5px 5px 5px;
   background: radial-gradient(farthest-corner at 0px 0px, rgba(255, 255, 255, 0.75), rgba(241, 240, 238, 0.4));
   color: #000;
+  /* border: rgba(241, 240, 238, 0.671) solid 1px; */
   margin: 2px;
 }
 .mentor1 img{
